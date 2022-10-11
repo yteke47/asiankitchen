@@ -13,7 +13,7 @@ Bu projede amaç bir obje içerisindeki verileri array ile dökümana yazdırmak
 * Javascript Arrow Function https://www.w3schools.com/js/js_arrow_function.asp
 * Javascript Array https://www.w3schools.com/js/js_arrays.asp
 * Javascript Array Iteration https://www.w3schools.com/js/js_array_iteration.asp
-* Javascript Temperal Literals https://www.w3schools.com/js/js_string_templates.asp
+* Javascript Template Literals https://www.w3schools.com/js/js_string_templates.asp
 
 ### CSS için;
 
