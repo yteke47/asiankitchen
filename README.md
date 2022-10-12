@@ -14,6 +14,7 @@ Bu projede amaç bir obje içerisindeki verileri array ile dökümana yazdırmak
 * Javascript Array https://www.w3schools.com/js/js_arrays.asp
 * Javascript Array Iteration https://www.w3schools.com/js/js_array_iteration.asp
 * Javascript Template Literals https://www.w3schools.com/js/js_string_templates.asp
+* Javascript HTML DOM https://www.w3schools.com/js/js_htmldom.asp
 
 ### CSS için;
 
